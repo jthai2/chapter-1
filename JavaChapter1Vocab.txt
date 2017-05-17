@@ -1,0 +1,45 @@
+Computer Program
+Hardware
+Software
+Application SOftware 
+Logic
+Machine Language
+Syntax
+Keywords
+Program Statements
+Commands
+Compiler
+Interpreter
+Executing
+Debugging
+Bug
+Logic Error
+Semantic Errors
+Procedural programming
+Variables
+Procedures
+Class
+Attributes
+Properties
+Object
+Instance
+Method 
+Encapsulation
+Inheritance
+Java
+Java Virtual Machine
+Java Applications
+Literal String
+Arguments
+Identifier
+Unicode
+Whitespace
+Parsing
+Run-time error
+Comment out
+Line Comments
+Block Comments
+Dialog Box
+Import Statement
+JDK
+SDK
