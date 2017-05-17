@@ -13,6 +13,7 @@ Portfolio On-Line all problems and solutions must be displayed using Google Site
 
 All information must be uploaded to GitHub
 Vocabulary Test due on Monday <a href=https://github.com/WestJavaClass/chapter1/blob/master/JavaChapter1Vocab.txt>Found Here</a>
+<br>
 Understanding Main Method Quiz due on Friday example page 19
 Exercises 1-10 page 49
 Game Zone page 51 #1
