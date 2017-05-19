@@ -8,7 +8,7 @@ Example of turning in Debugging excercise one <a href= https://github.com/WestJa
 Chapter 1 assignments
 
 Portfolio On-Line all problems and solutions must be displayed using Google Sites. 
-<img src = "javaChapter1.jpg">
+<img src = "javaChapter1.JPG">
 
 
 All information must be uploaded to GitHub
