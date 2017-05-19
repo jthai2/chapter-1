@@ -1,5 +1,5 @@
 # chapter1Debugging
-
+<img src = "javaChapter1.JPG">
 All of this needs to be place inside your GitHub Page and inserted into GitHub
 All chapter assignments must be linked inside of your README page like this.
 
@@ -8,7 +8,7 @@ Example of turning in Debugging excercise one <a href= https://github.com/WestJa
 Chapter 1 assignments
 
 Portfolio On-Line all problems and solutions must be displayed using Google Sites. 
-<img src = "javaChapter1.JPG">
+
 
 
 All information must be uploaded to GitHub
