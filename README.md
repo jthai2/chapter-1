@@ -1,4 +1,4 @@
-# chapter1Debugging
+# Java Programming Chapter 1
 <img src = "javaChapter1.JPG" height = "400" width= "800">
 All of this needs to be place inside your GitHub Page and inserted into GitHub
 All chapter assignments must be linked inside of your README page like this.
