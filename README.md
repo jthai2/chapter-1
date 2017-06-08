@@ -19,4 +19,4 @@ Vocabulary Test due on Monday <a href=https://github.com/WestJavaClass/chapter-1
 -Game Zone page 51 #1 <br>
 -Case problem page 51 # 1-2 <br>
 -Debugging 1-4 display
-<img src = "javaChapter1Rubric.JPG" height = "400" width= "800">
+<img src = "javaChapter1Rubric.jpg" height = "400" width= "800">
